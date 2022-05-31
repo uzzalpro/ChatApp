@@ -1,7 +1,7 @@
 # ChatApp
 
 # Cloning and starting project
-git clone 
-cd django-channels&socket-basic-chat
-pip install -r requirements.txt
-python manage.py runserver
+1.git clone https://github.com/uzzalpro/ChatApp.git
+2. cd django-channels&socket-basic-chat
+3. pip install -r requirements.txt
+4. python manage.py runserver
